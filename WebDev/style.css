@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:yellow;
+    font-size: 2rem;
+    padding: 2rem;
+    font-weight: bold;
+    
+}
+h3{
+    color:yellow;
+}
+
+.Kegiatan
+{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.countdown
+{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.day,.hour,.minute,.second
+{
+    font-size: 2rem;
+}
+
+.lambang
+{
+    height: 40vh;
+    margin: 100px;
+}
