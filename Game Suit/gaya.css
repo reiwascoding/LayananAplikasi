@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.tombol
+{
+    display: flex;
+    flex-direction: row;
+    margin: 2cm;
+    
+}
+.Gunting
+{
+    margin-right: 1cm;
+}
+.Batu
+{
+    margin-right: 1cm;
+}
